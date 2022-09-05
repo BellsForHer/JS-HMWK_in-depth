@@ -1,0 +1,21 @@
+JS vs. Ecmascript
+
+JS created in 1995
+
+Since 1997 JS relies on Ecmascript
+
+JS relies on the regulations and guidelines of ecmasctipt. Blueprint for scripting langues like JS. 
+
+ES5 2009 first major release of Ecmascript
+
+ES6 2015 latest version, includes implementations of let and const keywords, keywords, promoising, for loops
+
+ES upgrades each year but takes time to implement.
+
+Did you know ? Javascript name stems from Java due to Java popularity
+
+Key takeaways
+ES blueprint for scriptimg langues
+JS implements ES
+ES6 was the last major updates of ES
+
